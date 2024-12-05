@@ -1,0 +1,8 @@
+'''Santhosh mobile number is 9986019197 and he is from BANGALORE and Dob is 04/01/1984
+Kiran mobile number is 9986019191 and he is from MANGALORE and dob is 04:01:1985
+Vijay mobile number is 9986019192 and he is from OOTY and dob is 04-01-1986
+Prakash mobile number is 9986019193 and he is from SALEM and dob is 04.01.1987
+Manjula mobile number is 9986019194 and he is from HYD and dob is 04@01@1988
+Reshma mobile number is 9986019195 and he is from KOCHI and dob is 04:01:1989
+Guru mobile number is 9986019196 and he is from MYSORE and dob is 04/01/1990
+Vikash mobile number is 9986019199 and he is from UDUPI and dob is 04-01-1991'''
